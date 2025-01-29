@@ -1675,6 +1675,7 @@ footer h2 a {
         flex-wrap: wrap;
         justify-content: flex-start;
         align-items: center;
+        width: 75%;
     }
 
     .certificate-card {
