@@ -658,6 +658,10 @@ section {
         margin-bottom: 10px;
     }
 
+    .big{
+        height: 250px;
+    }
+
     .left-container {
         left: 0;
     }
@@ -1490,7 +1494,7 @@ footer h2 a {
     }
 
     section {
-        min-height: 100vh;
+        min-height: 75vh;
         padding-top: 20px;
         margin-left: 20px;
         margin-right: 20px;
